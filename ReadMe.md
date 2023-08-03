@@ -14,4 +14,4 @@
 
 le code est commentaire pour plus de compréhension.
 
-Nous sommes à la première version de notre application `V 1 .0`
+Nous sommes à la première version de notre application `FastConvert V 1 .0`
