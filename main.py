@@ -32,7 +32,7 @@ def convert():
 
 # Créer une fenêtre principale pour l'interface graphique
 app = tk.Tk()
-app.title("Convertisseur MP4 vers MP3")
+app.title("FastConvert By @AngeTia")
 
 # Entry pour le fichier d'entrée
 input_entry = tk.Entry(app, width=50)
